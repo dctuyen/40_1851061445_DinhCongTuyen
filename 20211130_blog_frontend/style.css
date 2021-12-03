@@ -1,0 +1,15 @@
+.my-justify {
+    text-align: justify;
+}
+
+*:focus {
+    outline: none;
+}
+
+footer {
+    background-color: #F8F9FB;
+}
+
+.content {
+    margin-top: 80px;
+}
