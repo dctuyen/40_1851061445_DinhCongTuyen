@@ -1,4 +1,6 @@
 <?php
+    // http://myproject.com/PHP/40_1851061445_DinhCongTuyen/20211130_blog_frontend : URL mặc định
+    // Sử dụng button Home-Featured-ViewPost để chuyển trang
     echo file_get_contents("./header.html");
     if (isset($_GET['id'])) {
         if ($_GET['id'] == 2) {
